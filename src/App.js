@@ -28,7 +28,7 @@ function App() {
       setFilterData([...productObj]);
   }
 
-
+  // new
 
   useEffect(() => {
     // Will execute for one time during component render in DOM
